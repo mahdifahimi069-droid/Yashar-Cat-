@@ -1,0 +1,6 @@
+{
+  "name": "Yasham Cat AI",
+  "description": "اپلیکیشن هوشمند مدیریت، سلامت و نگهداری گربه‌ها دستیار هوشمند و تحلیل‌گر نژاد و بیماری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
